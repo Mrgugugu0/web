@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "粒子海",
+      "hasCanvas": true,
+      "bodyTextLen": 203,
+      "bodyTextHash": "d38650b89f03d98c64206f027f9257ed823344659618ada04ff423fbe869d188",
+      "bodyTextPrefix": "粒子海 导入音频 MP3 / WAV / FLAC —— BPM ENERGY FLOW 48 TENSION 36 FREQU",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "粒子海",
+      "hasCanvas": true,
+      "bodyTextLen": 20,
+      "bodyTextHash": "303dfd9d7879421725539ccb4c9610e39be597351dd7eff0c0594b657feba813",
+      "bodyTextPrefix": "粒子海 状态 播放长风破浪 弹 全屏观看",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
